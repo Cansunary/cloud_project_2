@@ -14,7 +14,7 @@ DATABASE_URL = os.getenv(
 
 "DATABASE_URL",
 
-" "
+"postgresql://cansunary:zF1quOEPViIXUzWUYAK41eRlhOzETSfg@dpg-d4agvo2li9vc73fhts6g-a.oregon-postgres.render.com/cloud_project_fokj"
 
 )
 
